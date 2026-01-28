@@ -24,10 +24,8 @@ def extractPrice(asin):
     search = requests.get("https://serpapi.com/search", params=params)
     response = search.json()
 
-    """
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(response,f, ensure_ascii=False, indent=4)
-    """
     
     product_results = response.get("product_results", {})
     title = product_results.get("title")
