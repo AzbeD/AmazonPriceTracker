@@ -9,9 +9,10 @@ def main():
     url = "https://www.amazon.de/-/en/Sennheiser-Momentum-Wireless-Cancelling-Headphones-black/dp/B0B6GHW1SX/ref=sr_1_4?sr=8-4"
     asin = getAsin(url)
     product, price = extractPrice(asin)
+    product_short = " ".join(product.split()[:4])
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open("CenaIzdelka.txt", "a") as text_file:
-         text_file.write(f"{now} Izdelek: {product}; cena: {price}$\n")
+         text_file.write(f"{now} Izdelek: {product_short}; cena: {price}$\n")
 
 def extractPrice(asin):
     load_dotenv()
