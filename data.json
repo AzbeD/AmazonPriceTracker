@@ -1,0 +1,852 @@
+{
+    "search_metadata": {
+        "id": "697a148eac176587b858f5e3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/daa2877c445cbb7e/697a148eac176587b858f5e3.json",
+        "created_at": "2026-01-28 13:52:14 UTC",
+        "processed_at": "2026-01-28 13:52:14 UTC",
+        "amazon_product_url": "https://www.amazon.de/dp/B0FN7ZG39D/?",
+        "raw_html_file": "https://serpapi.com/searches/daa2877c445cbb7e/697a148eac176587b858f5e3.html",
+        "total_time_taken": 3.51
+    },
+    "search_parameters": {
+        "engine": "amazon_product",
+        "asin": "B0FN7ZG39D",
+        "amazon_domain": "amazon.de",
+        "device": "desktop"
+    },
+    "product_results": {
+        "asin": "B0FN7ZG39D",
+        "title": "Playstation®5 Digital Edition – 825 GB",
+        "badges": [
+            "Bestseller Nr. 1"
+        ],
+        "variants": [
+            {
+                "title": "Edition",
+                "items": [
+                    {
+                        "position": 1,
+                        "asin": "B0FN7ZG39D",
+                        "name": "Digital",
+                        "selected": true,
+                        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FN7ZG39D&device=desktop&engine=amazon_product"
+                    },
+                    {
+                        "position": 2,
+                        "asin": "B0FRYBZR91",
+                        "name": "Pro",
+                        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FRYBZR91&device=desktop&engine=amazon_product"
+                    },
+                    {
+                        "position": 3,
+                        "asin": "B0FP2S1MNB",
+                        "name": "Standard",
+                        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FP2S1MNB&device=desktop&engine=amazon_product"
+                    }
+                ]
+            },
+            {
+                "title": "Konfiguration",
+                "items": [
+                    {
+                        "position": 1,
+                        "asin": "B0FN7ZG39D",
+                        "name": "inkl. 1 DualSense",
+                        "selected": true,
+                        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FN7ZG39D&device=desktop&engine=amazon_product"
+                    },
+                    {
+                        "position": 2,
+                        "asin": "B0CQMF3VJK",
+                        "name": "inkl. 2 DualSense",
+                        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0CQMF3VJK&device=desktop&engine=amazon_product"
+                    },
+                    {
+                        "position": 3,
+                        "asin": "B0FS1ZYDRW",
+                        "name": "+FC 26",
+                        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FS1ZYDRW&device=desktop&engine=amazon_product"
+                    },
+                    {
+                        "position": 4,
+                        "asin": "B0FX33LHHD",
+                        "name": "+ Fortnite",
+                        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FX33LHHD&device=desktop&engine=amazon_product"
+                    }
+                ]
+            }
+        ],
+        "brand": "Besuche den Playstation-Store",
+        "link": "https://www.amazon.de/gp/aag/details/?seller=A3GUFLTOAAE00V&sshmPath=shipping-rates",
+        "link_clean": "https://www.amazon.de/gp/aag/details/?seller=A3GUFLTOAAE00V&sshmPath=shipping-ratesB0FN7ZG39D/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FN7ZG39D&device=desktop&engine=amazon_product",
+        "thumbnail": "https://m.media-amazon.com/images/I/21mFx1ubuAL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "thumbnails": [
+            "https://m.media-amazon.com/images/I/51U1wHaw7yL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61H3feIlOBL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51ZGUTBkIVL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51QE6tbphkL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51IkKvJ3OsL._SL1500_.jpg"
+        ],
+        "rating": 5.0,
+        "reviews": 1806,
+        "bought_last_month": "1000+ gekauft Mal im letzten Monat",
+        "discount": "-13 %",
+        "price": "434,90€",
+        "extracted_price": 434.9,
+        "old_price": "499,99€",
+        "extracted_old_price": 499.99,
+        "delivery": [
+            "GRATIS Lieferung Freitag, 6. Februar. Bestellung innerhalb 1 Std. 7 Min.. Details"
+        ],
+        "stock": "Auf Lager"
+    },
+    "about_item": [
+        "Die PS5 Digital Edition ist eine vollständig digitale Version der PS5-Konsole ohne Disc-Laufwerk",
+        "Schlankes Design: Mit PS5 erhalten die Spieler eine leistungsstarke Gaming-Technologie in einem schlanken und kompakten Konsolendesign",
+        "Freue dich auf blitzschnelles Laden mit einer ultraschnellen SSD, eine realistischere Spielerfahrung durch haptisches Feedback, adaptive Trigger-Tasten und 3D-Audio sowie eine völlig neue Generation unglaublicher PlayStation-Spiele",
+        "825 GB Speicher: Mit dem integrierten 825GB großen SSD-Speicher haben Sie Ihre Lieblingsspiele stets griff- und spielbereit",
+        "Lieferumfang: PS5 Digital Edition, DualSense Wireless-Controller, 825 GB SSD, Disc Drive, 2 Horizontal Standfüße, HDMI Kabel, Netzkabel, USB-Kabel, Druckerzeugnisse, ASTRO's PLAYROOM (vorinstalliertes Spiel)"
+    ],
+    "bought_together": [
+        {
+            "position": 1,
+            "title": "Playstation®5 Digital Edition – 825 GB",
+            "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/51U1wHaw7yL._AC_UL116_SR116,116_.jpg",
+            "price": "434,90€",
+            "extracted_price": 434.9,
+            "stock": "Auf Lager"
+        },
+        {
+            "position": 2,
+            "asin": "B0DJ1VD925",
+            "title": "PS5 - DualSense Wireless Controller Chroma Indigo Blue V2",
+            "link": "https://www.amazon.de/PS5-DualSense-Wireless-Controller-Chroma/dp/B0DJ1VD925/ref=pd_bxgy_thbs_d_sccl_1/261-3473341-8839266?pd_rd_w=PYW29&content-id=amzn1.sym.e5049a5e-3c04-4839-b191-b8e7a9a74d34&pf_rd_p=e5049a5e-3c04-4839-b191-b8e7a9a74d34&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef&pd_rd_i=B0DJ1VD925&psc=1",
+            "link_clean": "https://www.amazon.de/PS5-DualSense-Wireless-Controller-Chroma/dp/B0DJ1VD925/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DJ1VD925&device=desktop&engine=amazon_product",
+            "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61QWtX+qgJL._AC_UL116_SR116,116_.jpg",
+            "price": "79,97€",
+            "extracted_price": 79.97,
+            "delivery": [
+                "Erhalte es bis Samstag, 31. Januar"
+            ],
+            "stock": "Auf Lager"
+        },
+        {
+            "position": 3,
+            "asin": "B08S3FMVV7",
+            "title": "OIVO PS5 Controller Ladestation, PS5 Ladestation Controller mit 2-Stunden-Ladechip, Ladegerät für PlayStation 5, Schnellladung inklusive 2 Kabeln, LED-Ladestatusanzeige, P5 Aufbewahrung Weiß Tasche",
+            "link": "https://www.amazon.de/OIVO-Ladestation-2-Stunden-Ladechip-Schnellladung-LED-Ladestatusanzeige/dp/B08S3FMVV7/ref=pd_bxgy_thbs_d_sccl_2/261-3473341-8839266?pd_rd_w=PYW29&content-id=amzn1.sym.e5049a5e-3c04-4839-b191-b8e7a9a74d34&pf_rd_p=e5049a5e-3c04-4839-b191-b8e7a9a74d34&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef&pd_rd_i=B08S3FMVV7&psc=1",
+            "link_clean": "https://www.amazon.de/OIVO-Ladestation-2-Stunden-Ladechip-Schnellladung-LED-Ladestatusanzeige/dp/B08S3FMVV7/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B08S3FMVV7&device=desktop&engine=amazon_product",
+            "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71FglCT1vNL._AC_UL116_SR116,116_.jpg",
+            "price": "16,99€",
+            "extracted_price": 16.99,
+            "delivery": [
+                "Erhalte es bis Samstag, 31. Januar"
+            ],
+            "stock": "Auf Lager"
+        }
+    ],
+    "related_products": [
+        {
+            "position": 1,
+            "asin": "B0FS1ZJYXL",
+            "title": "Playstation®5 Digital-Edition 825 GB – EA SPORTS FC™ 26 Bundle",
+            "link": "https://www.amazon.de/Playstation%C2%AE5-Digital-825-GB-SPORTS/dp/B0FS1ZJYXL/ref=bmx_dp_d_sccl_1_1/261-3473341-8839266?pd_rd_w=yawHl&content-id=amzn1.sym.ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_p=ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef&pd_rd_i=B0FS1ZJYXL&psc=1",
+            "link_clean": "https://www.amazon.de/Playstation%C2%AE5-Digital-825-GB-SPORTS/dp/B0FS1ZJYXL/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FS1ZJYXL&device=desktop&engine=amazon_product",
+            "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71U+-fXgaHL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 128,
+            "price": "473,99€",
+            "extracted_price": 473.99,
+            "delivery": [
+                "Lieferung 30 Jan. - 31"
+            ]
+        },
+        {
+            "position": 2,
+            "asin": "B0FFYWQ7NR",
+            "title": "RGB Wireless Controller für PS5, Kompatibel mit PS5 Pro/Slim/PCs, Bluetooth Gamepad mit Rückenpaddel, Touchpad, Dual-Vibratio",
+            "link": "https://www.amazon.de/Controller-R%C3%BCckenpaddel-Dual-Vibration-6-Achsen-Sensor-Lautsprecher/dp/B0FFYWQ7NR/ref=bmx_dp_d_sccl_1_2/261-3473341-8839266?pd_rd_w=yawHl&content-id=amzn1.sym.ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_p=ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef&pd_rd_i=B0FFYWQ7NR&psc=1",
+            "link_clean": "https://www.amazon.de/Controller-R%C3%BCckenpaddel-Dual-Vibration-6-Achsen-Sensor-Lautsprecher/dp/B0FFYWQ7NR/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FFYWQ7NR&device=desktop&engine=amazon_product",
+            "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/615RhDhP7CL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.2,
+            "reviews": 120,
+            "price": "44,98€",
+            "extracted_price": 44.98,
+            "price_unit": "UVP: 52,99 €",
+            "extracted_price_unit": 52.99,
+            "delivery": [
+                "Erhalte es bis Samstag, 31. Januar"
+            ]
+        },
+        {
+            "position": 3,
+            "asin": "B0DJ1VN1LF",
+            "title": "Playstation DualSense Wireless-Controller - Chroma Pearl 5",
+            "link": "https://www.amazon.de/PS5-DualSense-Wireless-Controller-Chroma/dp/B0DJ1VN1LF/ref=bmx_dp_d_sccl_1_3/261-3473341-8839266?pd_rd_w=yawHl&content-id=amzn1.sym.ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_p=ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef&pd_rd_i=B0DJ1VN1LF&psc=1",
+            "link_clean": "https://www.amazon.de/PS5-DualSense-Wireless-Controller-Chroma/dp/B0DJ1VN1LF/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DJ1VN1LF&device=desktop&engine=amazon_product",
+            "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61wKe+YH9BL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 684,
+            "price": "90,51€",
+            "extracted_price": 90.51,
+            "delivery": [
+                "Erhalte es bis Samstag, 31. Januar"
+            ]
+        },
+        {
+            "position": 4,
+            "asin": "B08H97WTBL",
+            "title": "DualSense-Ladestation [PlayStation 5], usb",
+            "link": "https://www.amazon.de/Sony-Interactive-Entertainment-DualSense-Ladestation-PlayStation/dp/B08H97WTBL/ref=bmx_dp_d_sccl_1_4/261-3473341-8839266?pd_rd_w=yawHl&content-id=amzn1.sym.ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_p=ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef&pd_rd_i=B08H97WTBL&psc=1",
+            "link_clean": "https://www.amazon.de/Sony-Interactive-Entertainment-DualSense-Ladestation-PlayStation/dp/B08H97WTBL/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B08H97WTBL&device=desktop&engine=amazon_product",
+            "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/51r9QEJGoML._AC_UL165_SR165,165_.jpg",
+            "rating": 4.8,
+            "reviews": 8261
+        },
+        {
+            "position": 5,
+            "asin": "B0CMXL75GH",
+            "title": "Disc-Laufwerk für PlayStation 5 Pro und PS5® Digital Edition-Konsolen (Modellgruppe - Slim)*",
+            "link": "https://www.amazon.de/Disc-Laufwerk-PlayStation-Digital-Konsolen-Modellgruppe/dp/B0CMXL75GH/ref=bmx_dp_d_sccl_1_5/261-3473341-8839266?pd_rd_w=yawHl&content-id=amzn1.sym.ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_p=ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef&pd_rd_i=B0CMXL75GH&psc=1",
+            "link_clean": "https://www.amazon.de/Disc-Laufwerk-PlayStation-Digital-Konsolen-Modellgruppe/dp/B0CMXL75GH/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0CMXL75GH&device=desktop&engine=amazon_product",
+            "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/415S-Puzd8L._AC_UL165_SR165,165_.jpg",
+            "rating": 4.7,
+            "reviews": 1130,
+            "price": "79,99€",
+            "extracted_price": 79.99,
+            "delivery": [
+                "Erhalte es bis Samstag, 31. Januar"
+            ]
+        },
+        {
+            "position": 6,
+            "asin": "B0DJ1VD925",
+            "title": "PS5 - DualSense Wireless Controller Chroma Indigo Blue V2",
+            "link": "https://www.amazon.de/PS5-DualSense-Wireless-Controller-Chroma/dp/B0DJ1VD925/ref=bmx_dp_d_sccl_1_6/261-3473341-8839266?pd_rd_w=yawHl&content-id=amzn1.sym.ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_p=ed4a6cc5-0f6e-4b90-aef1-7e1ec5d67252&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef&pd_rd_i=B0DJ1VD925&psc=1",
+            "link_clean": "https://www.amazon.de/PS5-DualSense-Wireless-Controller-Chroma/dp/B0DJ1VD925/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DJ1VD925&device=desktop&engine=amazon_product",
+            "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61QWtX+qgJL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.7,
+            "reviews": 1177,
+            "price": "79,97€",
+            "extracted_price": 79.97,
+            "delivery": [
+                "Erhalte es bis Samstag, 31. Januar"
+            ]
+        }
+    ],
+    "product_description": [
+        {
+            "position": 1
+        },
+        {
+            "position": 2,
+            "title": "PS5",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/44902744-4e17-4271-835c-d63136a37396.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        },
+        {
+            "position": 3,
+            "carousel_images": [
+                {
+                    "position": 1,
+                    "title": "PS5",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28bb3678-fbc4-4781-a86e-0a42cfb6376c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                },
+                {
+                    "position": 2,
+                    "title": "PS5",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f460f2a2-d9fc-4b9e-809c-252119f1b0cf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                },
+                {
+                    "position": 3,
+                    "title": "PS5",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e16c68fe-0e8a-448b-9106-9f31011057c0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                },
+                {
+                    "position": 4,
+                    "title": "Haptisches Feedback",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8857a82e-8b81-49bf-8398-566ae78b66ef.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                },
+                {
+                    "position": 5,
+                    "title": "Adaptive Trigger",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/870db86c-5b53-421f-8ae3-da75778b1276.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "carousel_images": [
+                {
+                    "position": 1,
+                    "title": "Gow",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/000bec56-c41a-4663-a4e5-b090ac59c3be.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                },
+                {
+                    "position": 2,
+                    "title": "Helldivers",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/508dbec0-2d61-44a1-9a34-744ad1757598.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                },
+                {
+                    "position": 3,
+                    "title": "RoR",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b07d096b-5641-4dbc-91ce-a6aaecf3ed67.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                },
+                {
+                    "position": 4,
+                    "title": "TLOU",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4329145a-7e84-498a-a4e3-78eb16fd06f5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                },
+                {
+                    "position": 5,
+                    "title": "SpiderMan",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d0b4be1e-eff9-40c7-962f-10d53bab14c3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                },
+                {
+                    "position": 6,
+                    "title": "Horizon",
+                    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/35bb3119-d4d3-4b13-80d3-f20fbb185c01.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                }
+            ]
+        }
+    ],
+    "product_details": {
+        "batterien": "1 Lithium-Metall Batterien erforderlich (enthalten).",
+        "alterseinstufung": "USK ab 6 freigegeben",
+        "sprache": "Deutsch",
+        "produktabmessungen": "16,9 x 43,1 x 35,9 cm; 1,9 Kilogramm",
+        "erscheinungstermin": "15. September 2025",
+        "asin": "B0FN7ZG39D",
+        "modellnummer": "CFI-2116",
+        "review": 1806
+    },
+    "sponsored_brands": [
+        {
+            "position": 1,
+            "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/79d034dc-62f9-4cc8-addf-b2624f1a9649._CR0,0,1200,628_SX460_CB1169409_QL70_.jpg",
+            "name": "ein Display von Elektronik auf blauem Hintergrund.",
+            "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/551db21e-62e8-4770-9649-5db549044d42._CR0,0,1578,558_AC_SX96_SY48_CB1169409_QL70_.jpg",
+            "headline": "Weltmarktfuhrer bei umweltfreundlichen Mini-PCs",
+            "link": "https://aax-eu.amazon.de/x/c/JPWgg3O8hJh2nmuqFpIiyA4AAAGcBOBTRwMAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICBhGFXX/clv1_CEuOPUxokZA0iHrVX_0k-DmMeFdLaasKupgK7hyk99tJ139C2h6XVf018HHz9hvVjq0yzpNb3XPFfU1gA2cAVkFIGyrOB-f2M0gAbx92dFigOKdQskfB8IkGXCRvUOW6XJeXalC7rdIQEQQ8kV_3ZVhXLA8QC8x8H15tWbp4SRWS0aSJkEohXxuzLJWvKbYuDzUcfMyagcpNBHhtJZhsefQQh8yliMIIKin6O61_zAYOsoJhkeWuV2gvjBmW5lJBN2PMN-SRnR9AjX0lL9xFahCwdXiTzSjwM7ucy4TwaqUMLWal1aK1xkuNcA7FBIOT3_cq0eVrbNPflrzmINWOJuAs2NxIQgIdgaoo5uZ3LsBA8FNVCmSW_yWr3JYqfnqDdhxLjmOcuEw1_hDIIe6vWEpJfITVhPBne-wSBml9tlZkUux_rAVrRF9I0bxcInICObmeO8f_tcTgQCUpbjG0mbEGfGCrk02DWS1VeKFjkeeJTVNO0JKLqzr1WBB_Vra2u-9kyiAYPogQny6yiAyTyRP9XSF2bHAHLDKKASD0N4bSSBGXHXdP6ltDO1Pabm2zduMOm_1oehjI1Yxq9cA1NwnLERN7nAx8-fQ_spejvEcouIWQ-a4ZPW3B3ziPZI-4EWscTOA6Kx9Kr9gfEYp5lGwF94jrLhx5cSMNh7Yj9J8WLW8jfCmCk0kHrAP8Xtdl9wIR5HpozuUE5t56Nm2ALF0d2LDCNPPn4_3LIkkMFwT9myDYZs1A6xtY2-gTSNG9vKBXQw2VoxWi5ivNCwPuDxdthRTTAkpQheBfedU2WhqN-HwHJu9B6xR9pbqaVVDHKcu3dy9X6TWTudpsRc5qk4SjvX0nr8WcMfy4tcy-h0e02Wz1tXEa6S7Sv3K-pzKhtuYoucEnsiPtA-UxYu49P9-l0M2E7x9xMjQCOyXqmgXDjRZ2AjUAT0h4fATp-0OJuSibdcvPxIuRru3SyDSyZYhRDtqFc5nJ_nS1ewZgF8cNUTBTZ1d8ZLHE6B_zIkw3ASaOyqh-1TFnIbM5z7eAzh1wow1NFN6xg0twypJ5viUHVkiQcYSZb2b5W65UMtx4TXaafZPOIWg9DrfiAJahnev5fw3AxIx9KJA5MSVyDIiILkeTB8hh_GNbDJuD5djXhuAUTsb_lh0lH-dln1EnYlY6eOXbB3GHEokEtLP7kqOP6Sz76GrE0-tdsk1Ze8ErN2GFAm33-2CaRhc9tk_vK82SyMd4v6d60Dqh4JBREzCyIFsZQhyF1Va2rxAtOoPWZ7EToNXqb3zob6hmbIUngkh30cNgjoiXgAiYqVuwCcTTL9BAa8Lo-ocNlAaz8qAXCKoNeAGl_nPymNIAdgYC8K_w3PcH6nJ6ccFZEdpUtbwVlFW8JwyHl_SwBCe8b7xwSg3hVCiocSDcQigsc5e2Ud6EtiePK2Vw-6s47N3Ukk1gcj58wPUTTcsuIhvDND6f3z8LZ3iitZaWnQaeKArCYkDN0jK6EtoJ7M0M7_MW3VMs81vgNBira3gj54ZSntmTryD9VwtJf_xNN7bdVvIOXBjEqvPkBnvZBU2lA6AzifvMpOyQ_qW9U4I5KNca79RqU570HFOy45bHZM3SBFw1ZCxXy7z9lrgu8I3EwnzXxOy4aW7YaCCUrygOh2FEd76AXAL6IE_j-oA4fUSxuQhx8YMkSCnIcEMlHKx_pO8VW_KPL9InmYnNR2IpyPjhvPOMnfhEd72djDt_oGWfm5UbEwHwwSBltCq9lYZtMhC38ACR19OD6Ns-NLxn_ETxHtMT7NkBhmsFaDqgvmT37hYrpZaR3URVA3-j-Qpaq40lgt8JrB05OMj0seB3P_yw6qMg-lh6HqkXbM1t_b7BJzzbBaiK7doQec6kXN5MZlluggFii9fdMcX8tHI3YaGc1tYV09rVdWhWvM6riVQOUBb2G42yimtO8fAYEuSG-acSn00-Lwtn_NPFc5gepiilUyZOvpbnTEwBKuDx84eHWXjxBIixprAkA2irWpAXGwrJKsDtaXY1WPWIR7D-wELWuVwiBM1iSgtfUqMCjWlvnt2Zi-HQpcdEUeqMaN8aUbJUdrAsholnI0wgSPse1mMOFoZouZwczwJhnVLiF54Px9k/https://www.amazon.de/stores/page/D46E7549-FEB8-44F3-B821-22A8FD3EC3FE/?_encoding=UTF8&store_ref=SB_A05792312USRBM33XLAUY-A07969362TY2DADQB0C4O&pd_rd_plhdr=t&aaxitk=d20888e716852adbf97bded8ad1e6f7d&hsa_cr_id=0&lp_asins=B0G2BZGX1N%2CB0F62VT98H%2CB0CCVHKWGD&lp_slot=desktop-arbies&lp_page_asin=B0FN7ZG39D&aref=7Tg6KFVwJy&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mblsd_mb0_bkgd&pd_rd_w=OrfMA&content-id=amzn1.sym.ddd707a7-997c-45e8-be31-fb8a737d4133&pf_rd_p=ddd707a7-997c-45e8-be31-fb8a737d4133&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef"
+        },
+        {
+            "position": 2,
+            "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/e0e8fec0-934b-4893-9e07-fd76626578ce._CR0,0,1200,628_SX460_CB1169409_QL70_.png",
+            "name": "Gruppe von sechs verschiedenen Leuten, die drinnen zusammen sitzen, mit zwei im Vordergrund, die Gaming-Controller halten und in die Kamera lächeln. Farbenfrohe Freizeitkleidung, helle, moderne Inneneinrichtung mit weißen Möbeln und farbigen Akzenten.",
+            "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/c5f82bab-cb1d-444c-8032-0a3b9ccad43d._CR0,0,1600,1600_AC_SX96_SY48_CB1169409_QL70_.jpg",
+            "headline": "Retrowave G13 Ultra",
+            "link": "https://aax-eu.amazon.de/x/c/JJQ_ES_hmLbrjoF66E5vkhEAAAGcBOBTSAMAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICBQHWDb/clv1_CEuOPUxokZA0iHrVX_0k-DmMeFdLaasKupgK7hyk99tJ139C2h6XVf018HHz9hvVjq0yzpNb3XPFfU1gA2cAA2QzDQXUOfvvDlwqaXFrTGekWb1RhEfB8IkGXCRvUOW6XJeXalC7rdIQEQQ8kV_3ZVhXLA8QC8x8H15tWbp4SRWS0aSJkEohXxuzLJWvKbYuDzUcfMyagcpNBHhtJZhsefQQh8yliMIIKin6O61_zAYOsoJhkeWuV2gvjBmW5lJBN2PMN-SRnR9AjX0lL9xFahCwdXiTzSjwM7ucy4TwaqUMLWal1aK1xkuNcA7FBIOT3_cq0eVrbNPflpH0N6WJCtpr77hyBjUCkZYrg9R4GsNm9EtGKGeZ1SWr3JYqfnqDdhxLjmOcuEwD_RPIOayvWEZJf6rVhPBne-wSBml9tlZkUux_rAVrRF9I0bxcInICObmeO8f_tcTgQCUpbjG0mbEGfGCrk02DWS1VeKFjkeeJTVNO0JKLqzr1WBB_Vra2u-9kyiAYPogQny6yiAyTyRP9XSF2bHAHLDKKASD0N4bSSBGXHXdP6ltDO1Pabm2zduMOm_1oehjI1Yxq9cA1NwnLERN7nAx8_fQ_spejvEcouIWQ-a4ZPW3B3ziPZI-4EWscTOA6Kx9Kr9geGpFx4A9GwJj4ESt8enw6qsF_3qcOLW8jfCmCk0kHrAP8Xtdl9wIR5HpozuUE5t56Nm2ALF0d2LDCNPPn4_3LIkkMFwT9myDYZs1A6xtY2-gTSNG9vKBXQw2VoxWi5ivNCwPuDxdthRTTAkpQheBfedU2WhqN-HwHJu9B6xR9pbqaVVDHKcu3dy9X6TWTudpsRc5qk4SjvX0nr8WcMfy4tcy-h0e02Wz1tXEa6S7Sv3K-pzKhtuYoucEnsiPpA-UxYu49P9-l0M2E7x9xMjQCOyXqmgXDjRZ2PDEAcUR6fDrfsEKJpSibdcvPxIuRru3SyDSyZYhRDtqFc5nJ_nS1ewZgFMcZUzN9RVd8ZIuM6B_zIkw3ASaOyqh-1TFnIbM5z7eAzh1_ow1NFN6xg0twypJ5viUHVkiQcYSZb2b5W65UMtx4TXaafZPOIWg9DrfiAJahnev5fw3AxIx9KJA5MSVyDIiILkeTB8hh_GNbDJuD5djXhuAUTsb_lh0lH-dln1EnYlY6eOXbB3GHEokEtLP7kqOP6Sz76GrE0-tdsk1Ze8ErN2GFAm33-2CaRhc9tk_vK82SyMd4v6d60Dqh4JBREzCyIFsZQhyF1Va2rxAtOoPWZ7EToNXqb3zob6hmbIUngkh30cNgjoiXgAiYqVuwCcTTL9BAa8Lo-ocNlAaz8qAXCKoNeAGl_nPymNIAdgYC8K_w3PcH6nJ6ccFZEdpUtbwVlFW8JwyHl_SwBCe8b7xwSg3hVCiocSDcQigsc5e2Ud6EtiePK2Vw-6s47N3Ukk1gcj58wPUTTcsuIhvDND6f3z8LZ3iitZaWnQaeKArCYkDN0jK6EtoJ7M0M7_MW3VMs81vgNBira3gj54ZSntmTryD9VwtJf_xNN7bdVvIOXBjEqvPkBnvZBU2lA6AzifvMpOyQ_qW9U4I5KNca79RqU570HFOy45bHZM3SBFw1ZCxXy7z9lrgu8I3EwnzXxOy4aW7YaCCUrygOh2FEd76AXAL6IE_j-oA4fUSxuQhx8YMkSCnIcEMlHKx_pO8VW_KPL9InmYnNR2IpyPjhvPOMnfhEd72djDt_oGWfm5UbEwHwwSBltCq9lYZtMhC38ACR19OD6Ns-NLxn_ETxHtMT7NkBhmtSAVSGvmT37hYrpeauxhsbH3-j_SoGrpYigt8VnSRQd8P0seB3P_yw6qMg-lh6HqkXbM1t_b7BJzzbBaiK7doQec6kXN5MZlluggFii9fdMcX8tHI3YaGc1tYV09rVdWhWvM6riVQOUBb2G42yimtO8fAYEuSG-acSn00-Lwtn_NPFc5gepiilUyZOvpbnTEwBKuDx84eHWXjxBIixprAkA2irWpAXGwrJKsDtaXY1WPWIR7D-wELWuVwiBM1iSgtfUqMCjWlvnt2Zi-HQpcdEUeqMaN8aUbJUdrAsholnI0wgSPse1mMOFvnsXsP0c1GwbuU9ZB1Ksn8/https://www.amazon.de/stores/page/DA5E9074-4B21-4065-A5C0-C9F0AE23C91D/?_encoding=UTF8&store_ref=SB_A043989336HL8NZSHBXF2-A01392261JZ08QBOVEDDU&pd_rd_plhdr=t&aaxitk=ddc428176193a0a6725f071a09957785&hsa_cr_id=0&lp_asins=B0G6DNT9VG%2CB0G6JSJ9T8%2CB01LYM4CJ8&lp_slot=desktop-arbies&lp_page_asin=B0FN7ZG39D&aref=773tADDtP8&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mblsd_mb1_bkgd&pd_rd_w=OrfMA&content-id=amzn1.sym.ddd707a7-997c-45e8-be31-fb8a737d4133&pf_rd_p=ddd707a7-997c-45e8-be31-fb8a737d4133&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef"
+        },
+        {
+            "position": 3,
+            "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/c2ee471c-ec4f-4ede-9c03-94f41551a639._CR697,0,1223,640_SX460_CB1169409_QL70_.jpg",
+            "name": "Text lautet „Bild 1\". Reihe eleganter, vertikaler Spielekonsolen in verschiedenen Farben: Rot, Blau, Schwarz, Rosa und Lila. Die Konsolen haben ein eckiges Design mit kontrastierenden schwarzen Akzenten.",
+            "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/c7034022-498d-411d-af6c-a2ce16a35a26._CR0,0,1800,1800_AC_SX96_SY48_CB1169409_QL70_.png",
+            "headline": "Ersatzgehäuse für PS5, PS5 Slim und PS5 Pro",
+            "link": "https://aax-eu.amazon.de/x/c/JHa3_ltBNu3izuLpjJ8jJIYAAAGcBOBTSQMAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICBL6PCo/clv1_CEuOPUxokZA0iHrVX_0k-DmMeFdLaasKupgK7hyk99tJ139C2h6XVf018HHz9hvVjq0yzpNb3XPFfU1oA2cAC1Jtch7JO5CsHmUqOlx0bl2wOYV8skfB8IkGXCRpUOW6XJeXalC7rdIQEQQ8kV_3ZVhXLA8QC8x8H15tWbp4SRWS0aSJkEohXxuzLJWvKbYuDzUcfMyagcpNBHhtJZhsefQQh8yliMIIKin6O61_zAYOsoJhkeWuV2gvjBmW5lJBN2PMN-SRnR9AjX0lL9xFahCwdXiTzSjwM7ucy4TwaqUMLWal1aK1xkuNcA7FBIOT3_cq0eVrbNPflqn5LPyQN85o791XBQsPv5Y_-up1LKUBtVNHEk6W_yWr3JYqfnqDdhxLjmOcuEwH_BDILemvWGREfKrzhPBne-wSBml9tlZkUux_rAVrRF9I0bxcInICObmeO8f_tcTgQCUpbjG0mbEGfGCrk02DWS1VeKFjkeeJTVNO0JKLqzr1WBB_Vra2u-9kyiAYPogQny6yiAyTyRP9XSF2bHAHLDKKASD0N4bSSBGXHXdP6ltDO1Pabm2zduMOm_1oehjI1Yxq9cA1NwnLERN7nAx88fQ_spejvEcouIWQ-a4ZPW3B3ziPZI-4EWscTOA6Kx9Kr9geGqluuRsRz5rsIDN8VGM9l9lY8cE0LW8jfCmCk0kHrAP8Xtdl9wIR5HpozuUE5t56Nm2ALF0d2LDCNPPn4_3LIkkMFwT9myDYZs1A6xtY2-gTSNG9vKBXQw2VoxWi5ivNCwPuDxdthRTTAkpQheBfedU2WhqN-HwHJu9B6xR9pbqaVVDHKcu3dy9X6TWTudpsRc5qk4SjvX0nr8WcMfy4tcy-h0e02Wz1tXEa6S7Sv3K-pzKhtuYoucEnsiPpA-UbYu49P9-l0M2E7x9xMjQCOyXqmgXDjRZ2MH0DcXI0fBTtskGZuSyOX_nG1LHusdbd5jKxWYBPBc6eJp3Z0Hm1exJuFNcVUTNTdxB8ZJ-M6SPdOE0ZJyS-ystK0zFrIIkU1OKE50ZwoyF3Duel_AtI_IpghB9KanCBcZ6iMA3dYoV6Ied6WWORRJeWGQxWC42TfMOltPzteibb2IltS9kBBCl0AYi2VEyTIb5jmABDCouTvtDYjsoSTcLZqwM9G9thgAQjS0Eufc3iAUvtMI09n6fjnrO57Ree6Gv6wedfvCZJbsMSL32HBnKi6GesWC1Ym0btO_-b2P0HoJx1_jyi3LpSITHZD1oHUkW-0Unjqzk6Lob9RuwtsPeyX0abSKg6QZowr3Ui_Z9vkbPi_xGbqFS1HuvtcNJEd8_g6egrjzm8-KU8JasOJxH_xxrXi8UpcgQDzL_q54cf6U9qacVnZeBwiq8OlkKTGVO-nPC3BHu3Yrw7MgPhZVOpcxrASD4saJaxa72XoCiIM18s2qgs6ePOqDxgaQNJ1K4pJ9cqHBmkNwml7SoOHWzhj4agmQz7LCPRTliX-wDuQtoJ0Z0jwe8B41Mwql3gS1GsDV5j7rxfmvSElX_BdhdLUsFvN6iGeOQHOBjdqvDgAnmtO167LolJiPy17uyU3_iDSKM_BMQgsPlfVMbYNlDB-5bTY__CEGErWyNh4-fxw4oY8I3EwnzX_YS4Km7sGw-kvU5DhQVIbb6AXAL6IE_j-oA4fUSxuQhx_PAldHG3XX99Y4FIl5AUZ6rwAu41mpTNQ3k0y_eG-M6DheNHTIeIuCtvuFjBsbscdHq2-RZf6Aafq4ZzaT61z3WjodTkyv4zUrhR5H2VTtMap_xzTfgLad8Hwn7j4TWa8SKUn0MifKf_MR0ggcOtbPmHbNiE9P1vh7lXIrjy_r8i41xjVu4DNpoqv72VfHLDDauLtI4Qc8-9SdlWYhsdzxRmgcrZL6m6pz4gfKvDw9YLkoWJNzVHtsbq3BMOVwHqC43m3Wd41ds_WqfSvZR8iV8MDlJH29PZV7ss4AGvLiBp5af8T3fheOx8pb7yMYmQD1LwrPtPMFavR-1tDi_4MPHOGmBGW8qJRofGnATmtnkSC_5CXgJjB7U9jnlLp9HqneHQpcdEUeqza_klUpRrdY8Qo5BbBlWpQDLDKV4XaD7HkS_RUQFx/https://www.amazon.de/stores/page/99E8BFE3-0048-423A-B683-B0FC50AFF996/?_encoding=UTF8&store_ref=SB_A0200993DDSFJOBDZXD7-A0916919225NOBPZIVMZ3&pd_rd_plhdr=t&aaxitk=9d151efeabe49e1baea76385586f0457&hsa_cr_id=0&lp_asins=B0F99FKZWW%2CB0FKN4FGDP%2CB08ZY2FHQV&lp_slot=desktop-arbies&lp_page_asin=B0FN7ZG39D&aref=ZdxhQG723v&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mblsd_mb2_bkgd&pd_rd_w=OrfMA&content-id=amzn1.sym.ddd707a7-997c-45e8-be31-fb8a737d4133&pf_rd_p=ddd707a7-997c-45e8-be31-fb8a737d4133&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef"
+        },
+        {
+            "position": 4,
+            "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/b9ca06c3-0f4f-457f-93f2-5e5f2515a922._CR0,105,2730,1430_SX460_CB1169409_QL70_.png",
+            "name": "Vier kabellose Gamecontroller, die in einer Reihe auf einer lila Glitzeroberfläche mit festlichem Weihnachtshintergrund angeordnet sind. Die Controller sind in den Farben Lila, Weiß und Schwarz mit verschiedenen dekorativen Mustern wie Sternen und Himmelsmotiven",
+            "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8f56401c-d0a4-4398-982a-7af9f9bfc491._CR0,0,1920,1080_AC_SX96_SY48_CB1169409_QL70_.png",
+            "headline": "Rutschfeste & Stoßfeste Hülle für PS5 Controller",
+            "link": "https://aax-eu.amazon.de/x/c/JNY1Z6uZ5VaFRAQPIdZcNLUAAAGcBOBTSwMAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICDnvehW/clv1_CEuOPUxokZA0iHrVX_0k-DmMeFdLaasKupgK7hyk99tJ139C2h6XVf018HHz9hvVjq0yzpNb3XPFfU1iA2cAXkpdMTjMEM7NFH8gTGghSwKlA95ghEfB8IkGXCRtUOW6XJeXalC7rdIQEQQ8kV_3ZVhXLA8QC8x8H15tWbp4SRWS0aSJkEohXxuzLJWvKbYuDzUcfMyagcpNBHhtJZhsefQQh8yliMIIKin6O61_zAYOsoJhkeWuV2gvjBmW5lJBN2PMN-SRnR9AjX0lL9xFahCwdXiTzSjwM7ucy4TwaqUMLWal1aK1xkuNcA7FBIOT3_cq0eVrbNPflr7mFsa-D-gu3-RmYTNrnYAg2fk1GbZy82NqJBGZ1SWr3JYqfnqDdhxLjmOcuEwD_hPYB--vWEpEf7rVhPBne-wSBml9tlZkUux_rAVrRF9I0bxcInICObmeO8f_tcTgQCUpbjG0mbEGfGCrk02DWS1VeKFjkeeJTVNO0JKLqzr1WBB_Vra2u-9kyiAYPogQny6yiAyTyRP9XSF2bHAHLDKKASD0N4bSSBGXHXdP6ltDO1Pabm2zduMOm_1oehjI1Yxq9cA1NwnLERN7nAx89fQ_spejvEcouIWQ-a4ZPW3B3ziPZI-4EWscTOA6Kx9Kr9gfJLpuhDU38rf0ZTN6ansKusFa4KksLW8jfCmCk0kHrAP8Xtdl9wIR5HpozuUE5t56Nm2ALF0d2LDCNPPn4_3LIkkMFwT9myDYZs1A6xtY2-gTSNG9vKBXQw2VoxWi5ivNCwPuDxdthRTTAkpQheBfedU2WhqN-HwHJu9B6xR9pbqaVVDHKcu3dy9X6TWTudpsRc5qk4SjvX0nr8WcMfy4tcy-h0e02Wz1tXEa6S7Sv3K-pzKhtuYoucEnsiPpA-UcU_4sEdOm7uiI-hhYDD47UTnZkxTmhxB2CjECT0gxfSrP-EGJqSebdcvPxIuRru3SyDSyZYhRDtqFc5nJ_nS1ewZgFMcZHjFTZ1d8WouK6B_zIkw3ASaOyqh-1TFnIbM5z7eAzh1_ow1FHsq0vlJz8_UlhxB4S3OBR7yaChH6Y4VEGt5Cb3CSRoPfIQwhTrSHDICwtM24fgjPzqRHcdUHLjl-N7K2E0qcKbpQl38bD5v0vebHgs0ie8rmkDU9JNp6m142S3B7eeDUDVvbNI4-ga_8naK18iye8HL804gYgjs6JfgdN2i-Emn46kmjHRQHiEbWSuCC2el8vZx1oyWZ4JhKIGnFLFxsQnyDykK5vjkLe4LTaLsAlevuaFnkTZlcA54d8HYo-5xjhKO9wRSYzGWvC9HtcMdvVsDo6-gulBWS-KU4B6AeeB2n_Rn20ulySFkA4IW3yPI6-XUBadBkDt5WitoVtVe5GVOQuMm2Bl20frxnNgPbD1C0SxXcWxMjaJmeXr2Ijx2UNUpF5605nuPOhkhdbQUj0KkUJ8ssHwTHMzCNqC4JOFr-spmshgb7MCzLc2XH1DKxGNoClp0m_84G5GkerF3wCkCtHwtv0YQLhuGH3n_XQDJIQvNWNLDec98FXzrcqPDoF3u8HUK5AaQqicS5pPWqwL-uZrw9Bf4j7vh-X8fzB1vt5ZTfYs3sDG8ESh1pydjf-Y8r_I3EwnzXxOy4f2WwG06QlDhWtnA-VrnlXAL6IE_j-oA4fUSxuQhx8YMkfxq3XX99Y4FD_JAUbMHwAu5_5qTeV1wz4MK8vPWMmaBETY-CgyV3qWCqh5cndSPCwXwC6BWtrN9rMTWa-wKjpeT2yssxUJpK-kbiG_wl7Nkd9Rn2wAvgtCf17hbVSjtQ0C4sKJIPVYVq68lAP2O3XjYxf2KVtT5jYYfqruI95lpgAawDc8Z0-aSSfHTZTaybs58TK4-qQ8ZIdgNiwhxpjdzOM76zzzAuc7ydxcERm8eWdSta9MGi1QoTEknpDc-z0iNMufQJTKGJ6cRyhl8DDhhw-Jn5HYEM3j7fOSEEmJL6QXo_IfCK4dq4T6WT-Cz5T6xjWgOtRZIuDSzoFPHREihLIfCJdrXHqzy68F8tN81iSgtfRJMbjkZIt_XTkZLGpcdEUeqMaN8aUbJUdo8vn7VCOnAFd8cdz18rD7mYU6nj1tDJWVpoOjq4e1gRuw/https://www.amazon.de/stores/page/45BB0D86-042B-47B4-A318-3EF78989A460/?_encoding=UTF8&store_ref=SB_A099488529AN7NJW5YJX1-A024732826TLVQG2DR5JE&pd_rd_plhdr=t&aaxitk=b9194fa5b1c9de7c46c3ce5dfdeb8e24&hsa_cr_id=0&lp_asins=B09XGQXWTP%2CB0FBRB146Q%2CB0DDPNP3X6&lp_slot=desktop-arbies&lp_page_asin=B0FN7ZG39D&aref=inGZNUT5LG&pd_rd_i=ad4&ref_=sbx_be_dp_arbies_mblsd_mb3_bkgd&pd_rd_w=OrfMA&content-id=amzn1.sym.ddd707a7-997c-45e8-be31-fb8a737d4133&pf_rd_p=ddd707a7-997c-45e8-be31-fb8a737d4133&pf_rd_r=42752YE14GEKN3BG8PWD&pd_rd_wg=Vp8dd&pd_rd_r=3b6f2161-d6d3-4856-b147-ffa6cd892eef"
+        }
+    ],
+    "reviews_information": {
+        "summary": {
+            "text": "Die Kunden sind mit der Qualität, Leistung und dem Preis-Leistungs-Verhältnis der PS5 zufrieden. Sie beschreiben sie als toll, richtig gut und top Ware. Die Leistung der Konsole und der Controller wird gelobt. Die Spiele bieten ein großartiges Spielerlebnis und Spaß für die ganze Familie. Die Grafik wird als brillant und butterweich beschrieben. Die Ladegeschwindigkeit, die Controller, die Grafik und die Ladegeschwindigkeit werden ebenfalls positiv erwähnt. Einige Kunden sind mit dem Geräuschpegel zufrieden, andere haben gemischte Gefühle dazu.",
+            "insights": [
+                {
+                    "title": "Qualität",
+                    "sentiment": "positive",
+                    "mentions": {
+                        "total": 56,
+                        "positive": 53,
+                        "negative": 3
+                    },
+                    "summary": "Kunden sind mit der Qualität der Konsole zufrieden. Sie beschreiben sie als toll, richtig gut und wie erwartet. Die PS5 wird als großartiges Produkt für Gelegenheitsspieler und Hardcore-Gamer gleichermaßen gelobt.",
+                    "examples": [
+                        {
+                            "position": 1,
+                            "snippet": "Einfach ein tolles Gerät und ich hatte das Glück , das bei der Black week „abzugreifen“ ….. aufgrund der Tatsache , dass ich spiele auf DVD mag,...",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R2U14RVLP1MRK"
+                        },
+                        {
+                            "position": 2,
+                            "snippet": "Schnelle Lieferung.Eine super Konsole. Tolle Bildqualität!Fließendes Spielerlebnis.",
+                            "link": "https://www.amazon.de/gp/customer-reviews/RA6XZC8FU0DDI"
+                        },
+                        {
+                            "position": 3,
+                            "snippet": "Nichts negatives, tolle Konsole !!!!!",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R1O3O7F10I9MFO"
+                        },
+                        {
+                            "position": 4,
+                            "snippet": "Tolles Produkt das hält was es verspricht.",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R1YI5YCHEFZXJ4"
+                        }
+                    ]
+                },
+                {
+                    "title": "Leistung",
+                    "sentiment": "positive",
+                    "mentions": {
+                        "total": 44,
+                        "positive": 36,
+                        "negative": 8
+                    },
+                    "summary": "Kunden sind mit der Leistung der Konsole zufrieden. Sie berichten, dass sie einwandfrei läuft, Spiele flüssig laufen und alles mühelos läuft. Einige Kunden erwähnen, dass Fortnite damit gut gespielt werden konnte.",
+                    "examples": [
+                        {
+                            "position": 1,
+                            "snippet": "...Spiele laufen flüssig und sehen beeindruckend realistisch aus. Besonders gut gefällt mir der leise Betrieb und das moderne Design....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R10JVW2D0G10LC"
+                        },
+                        {
+                            "position": 2,
+                            "snippet": "Schnelle Lieferung und funktioniert einwandfrei",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R1X2PM4EB0Y5IM"
+                        },
+                        {
+                            "position": 3,
+                            "snippet": "...Geburtstag gekauft und wurde im Grunde nicht enttäuscht, es hält was es verspricht, war neuwertig verpackt und hat keine störenden Lüfter....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R1JGXW3CWNPKLW"
+                        },
+                        {
+                            "position": 4,
+                            "snippet": "Top Konsole – starke Leistung, aber etwas knapp bemessener Speicher...",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R2250EN6U9VUX1"
+                        }
+                    ]
+                },
+                {
+                    "title": "Preis-Leistung",
+                    "sentiment": "positive",
+                    "mentions": {
+                        "total": 24,
+                        "positive": 22,
+                        "negative": 2
+                    },
+                    "summary": "Kunden sind mit dem Preis-Leistungs-Verhältnis der Konsole zufrieden. Sie sagen, dass sie einen sehr guten Preis und günstige Spiele bekommen haben.",
+                    "examples": [
+                        {
+                            "position": 1,
+                            "snippet": "Max value/price. Thanks Amazon.de !",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R1DG22KJSVKP8K"
+                        },
+                        {
+                            "position": 2,
+                            "snippet": "Die gesamte Kaufabwicklung der PS5 war absolut empfehlenswert. Guter Preis, superschnelle Lieferung, top Ware !...",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R1040ESIA8M6ZN"
+                        },
+                        {
+                            "position": 3,
+                            "snippet": "...Preis Leistung war unschlagbar zum Vergleich mit anderen Händlern! Danke Amazon!",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R2HLMQMJ4AVAXN"
+                        },
+                        {
+                            "position": 4,
+                            "snippet": "Unschlagbarer Preis...",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R9FZQYCMFV4BG"
+                        }
+                    ]
+                },
+                {
+                    "title": "Spielqualität",
+                    "sentiment": "positive",
+                    "mentions": {
+                        "total": 17,
+                        "positive": 16,
+                        "negative": 1
+                    },
+                    "summary": "Kunden sind mit der Spielqualität des Produkts zufrieden. Sie berichten, dass es ein großartiges Spielerlebnis und Spaß für die ganze Familie bietet. Die Grafik wird als brillant und butterweich beschrieben. Die Spiele laufen butterweich und haben nahezu die Smoothness von 60Hz.",
+                    "examples": [
+                        {
+                            "position": 1,
+                            "snippet": "...Egal welches Spiel, es läuft immer flüssig und es macht mega Spaß, da der Controller sehr gutes haptisches Feedback gibt.",
+                            "link": "https://www.amazon.de/gp/customer-reviews/RMLXDV7JD82XP"
+                        },
+                        {
+                            "position": 2,
+                            "snippet": "...PS5 läuft super, macht Spaß....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/RIJJN92KFBKPD"
+                        },
+                        {
+                            "position": 3,
+                            "snippet": "Eine tolle Konsole die Spielspaß liefert , zudem stehen bei der online Version keine Spielehüllen umher die irgendwann einstauben könnten",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R39HSQGHOFGT6R"
+                        },
+                        {
+                            "position": 4,
+                            "snippet": "...muss man nicht viel sagen: Leistung, Ladezeiten und Spielerlebnis sind auf gewohnt hohem Niveau....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R292T1MMIKLVCH"
+                        }
+                    ]
+                },
+                {
+                    "title": "Ladegeschwindigkeit",
+                    "sentiment": "positive",
+                    "mentions": {
+                        "total": 15,
+                        "positive": 13,
+                        "negative": 2
+                    },
+                    "summary": "Kunden sind mit der Ladegeschwindigkeit des Produkts zufrieden. Sie erwähnen, dass es superschnelle SSD-Ladezeiten liefert und keine nervige Batterieentsorgen wie bei der Xbox.",
+                    "examples": [
+                        {
+                            "position": 1,
+                            "snippet": "...Die Leistung ist beeindruckend, Ladezeiten sind extrem kurz und Spiele laufen absolut flüssig....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R33E2VXQQORZ84"
+                        },
+                        {
+                            "position": 2,
+                            "snippet": "...alles ist vieeel besser im Vergleich zur PS4. Alles läuft so mühelos, schnell und sieht dabei gut aus....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/RBJOHS40PPCDP"
+                        },
+                        {
+                            "position": 3,
+                            "snippet": "Wie erwartet, schnelle Konsole, fantstische Grafik und ein wirklich sehr reichliches Angebot an Games....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R2LHO3GG6P8ASV"
+                        },
+                        {
+                            "position": 4,
+                            "snippet": "Zur PlayStation 5 selbst muss man nicht viel sagen: Leistung, Ladezeiten und Spielerlebnis sind auf gewohnt hohem Niveau....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R292T1MMIKLVCH"
+                        }
+                    ]
+                },
+                {
+                    "title": "Controller",
+                    "sentiment": "positive",
+                    "mentions": {
+                        "total": 11,
+                        "positive": 8,
+                        "negative": 3
+                    },
+                    "summary": "Kunden sind mit dem Controller zufrieden. Sie beschreiben ihn als ein echtes Highlight und loben die gute Haptik. Der DualSense-Controller liegt gut in der Hand und lässt sich einfach abnehmen.",
+                    "examples": [
+                        {
+                            "position": 1,
+                            "snippet": "Alle Erwartungen erfüllt, zwei Controller . Würde ich wieder kaufen. 5 Sterne",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R1N3RGXN6RB4VV"
+                        },
+                        {
+                            "position": 2,
+                            "snippet": "...Klare Kaufempfehlung!!! Schnell, super Grafik, Controller liegen super in der Hand, etc.",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R2XA2TXLRHWHR2"
+                        },
+                        {
+                            "position": 3,
+                            "snippet": "Die PS 5 ist ok, aber leider sind die Controller defekt. Beide ziehen sogar schon im Menü nach links....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R2O6P32XX9QUZX"
+                        },
+                        {
+                            "position": 4,
+                            "snippet": "...Auch der DualSense-Controller ist ein echtes Highlight – das haptische Feedback und die adaptiven Trigger sorgen für ein völlig neues...",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R2250EN6U9VUX1"
+                        }
+                    ]
+                },
+                {
+                    "title": "Grafik",
+                    "sentiment": "positive",
+                    "mentions": {
+                        "total": 11,
+                        "positive": 10,
+                        "negative": 1
+                    },
+                    "summary": "Kunden sind mit der Grafik des Produkts zufrieden. Sie beschreiben sie als hervorragend, mit toller Bildqualität und 4K-Unterstützung.",
+                    "examples": [
+                        {
+                            "position": 1,
+                            "snippet": "...Klare Kaufempfehlung!!! Schnell, super Grafik, Controller liegen super in der Hand, etc.",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R2XA2TXLRHWHR2"
+                        },
+                        {
+                            "position": 2,
+                            "snippet": "...durch eine starke Leistung, schnelle Ladezeiten und eine hervorragende Grafik. Spiele laufen flüssig und sehen beeindruckend realistisch aus....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R10JVW2D0G10LC"
+                        },
+                        {
+                            "position": 3,
+                            "snippet": "...Die Ladezeiten sind extrem kurz, die Grafik ist brillant und die Spiele laufen butterweich....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R2250EN6U9VUX1"
+                        },
+                        {
+                            "position": 4,
+                            "snippet": "Schnelle Lieferung.Eine super Konsole. Tolle Bildqualität!Fließendes Spielerlebnis.",
+                            "link": "https://www.amazon.de/gp/customer-reviews/RA6XZC8FU0DDI"
+                        }
+                    ]
+                },
+                {
+                    "title": "Geräuschpegel",
+                    "sentiment": "mixed",
+                    "mentions": {
+                        "total": 16,
+                        "positive": 11,
+                        "negative": 5
+                    },
+                    "summary": "Kunden haben unterschiedliche Meinungen zum Geräuschpegel der Videospielkonsole. Einige finden sie sehr leise, während andere sie als zu laut empfinden. Es gibt auch Beschwerden über defekte Lüfter, die zu laut laufen.",
+                    "examples": [
+                        {
+                            "position": 1,
+                            "snippet": "...Das Preis-Leistungs-Verhältnis ist echt gut. Sie ist wirklich sehr leise. Laut wird sie nur, wenn ein Spiel gerade installiert wird....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R3OOFUFRMQU428"
+                        },
+                        {
+                            "position": 2,
+                            "snippet": "Absolut Zufrieden mit der Konsole. Sie ist leise hat eine gute Leistung und der SSD Speicher macht die Ladezeiten angenehmer....",
+                            "link": "https://www.amazon.de/gp/customer-reviews/RSE5PS1H7B00Q"
+                        },
+                        {
+                            "position": 3,
+                            "snippet": "...Wurde beim Spielen laut und stürzte ab. Ging aus dem Grund direkt wieder zurück. Schade.",
+                            "link": "https://www.amazon.de/gp/customer-reviews/RAVDFGAQCJTJ"
+                        },
+                        {
+                            "position": 4,
+                            "snippet": "Sie ist wirklich leise.",
+                            "link": "https://www.amazon.de/gp/customer-reviews/R3JZBWC63XMU3D"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                "https://m.media-amazon.com/images/I/61VPBJ-LYuL.jpg",
+                "https://m.media-amazon.com/images/I/61e7Adq4KqL.jpg",
+                "https://m.media-amazon.com/images/I/71Y-fzHz03L.jpg",
+                "https://m.media-amazon.com/images/I/510qAgPrOrL.jpg",
+                "https://m.media-amazon.com/images/I/6159Dj5e5qL.jpg",
+                "https://m.media-amazon.com/images/I/61SthT5+dbL.jpg",
+                "https://m.media-amazon.com/images/I/71Kc5XK8b7L.jpg",
+                "https://m.media-amazon.com/images/I/61pj+c3VtKL.jpg",
+                "https://m.media-amazon.com/images/I/61bMZxTEx8L.jpg",
+                "https://m.media-amazon.com/images/I/71B5jon8rML.jpg",
+                "https://m.media-amazon.com/images/I/71Wds8P8u3L.jpg",
+                "https://m.media-amazon.com/images/I/61VB2LZH6NL.jpg"
+            ],
+            "customer_reviews": {
+                "5 Sterne": 84,
+                "4 Sterne": 8,
+                "3 Sterne": 2,
+                "2 Sterne": 1,
+                "1 Stern": 5
+            }
+        },
+        "authors_reviews": [
+            {
+                "position": 1,
+                "title": "Top Konsole mit großartigem Bundle",
+                "text": "Die PlayStation 5 Digital Edition überzeugt auf ganzer Linie. Die Leistung ist beeindruckend, Ladezeiten sind extrem kurz und Spiele laufen absolut flüssig. Das Design ist modern und hochwertig, und der DualSense-Controller mit haptischem Feedback sorgt für ein großartiges Spielerlebnis.Das Fortnite-Bundle ist ein tolles Extra, besonders für Fans des Spiels. Die Inhalte lassen sich einfach aktivieren und bieten direkt zum Start zusätzlichen Spaß. Trotz der digitalen Version ist die Konsole super übersichtlich und leise im Betrieb.Insgesamt eine erstklassige Konsole mit starkem Preis-Leistungs-Verhältnis. Absolute Empfehlung für Gamer! 🎮",
+                "rating": 5.0,
+                "author": "Julian Vasa",
+                "author_link": "https://www.amazon.de/gp/profile/amzn1.account.AFUSV5RJAVNDRUJLLNNMU2N4RMYA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "helpful_votes": "2 Personen fanden diese Informationen hilfreich",
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "+ Fortnite"
+                }
+            },
+            {
+                "position": 2,
+                "title": "Top Konsole – starke Leistung, aber etwas knapp bemessener Speicher",
+                "text": "Die PlayStation 5 Digital Edition ist technisch absolut beeindruckend. Die Ladezeiten sind extrem kurz, die Grafik ist brillant und die Spiele laufen butterweich. Auch der DualSense-Controller ist ein echtes Highlight – das haptische Feedback und die adaptiven Trigger sorgen für ein völlig neues Spielerlebnis.Einziger wirklicher Kritikpunkt: Der interne Speicher von 825 GB fällt relativ knapp aus, besonders wenn man mehrere große Spiele gleichzeitig installiert. Zwar lässt sich der Speicher mit einer NVMe-SSD erweitern, aber out of the box hätte Sony gerne etwas mehr Kapazität spendieren können.Für das Produkt selbst gibt es klare 4 Sterne – technisch top, aber mit Speicher-Luft nach oben.LieferantenbewertungLeider muss ich dem Lieferanten 1 Stern geben. Das Paket wurde einfach ungesichert vor der Tür abgestellt, ohne jegliche Unterschrift. Als ich nach Hause kam, war es bereits verschwunden.Kein Nachbar hatte etwas gesehen, keine Information, keine sichere Übergabe – sehr enttäuschend bei einem hochpreisigen Produkt wie einer Spielkonsole.Letztendlich musste ich mir die PlayStation im Einzelhandel kaufen, weil ich diesen Lieferprozess nicht noch einmal riskieren wollte.Produkt top – Lieferung absolut mangelhaft",
+                "rating": 5.0,
+                "author": "Markus B",
+                "author_link": "https://www.amazon.de/gp/profile/amzn1.account.AFTKMDSX3EEV4QPDUXC53OSANJZA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "helpful_votes": "24 Personen fanden diese Informationen hilfreich",
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "inkl. 1 DualSense"
+                }
+            },
+            {
+                "position": 3,
+                "title": "Leise, schön und leistungsstark!",
+                "text": "Super Produkt! Extrem gute Verarbeitung. Das Preis-Leistungs-Verhältnis ist echt gut. Sie ist wirklich sehr leise. Laut wird sie nur, wenn ein Spiel gerade installiert wird. Hierbei macht es aber scheinbar keinen Unterschied, ob das Spiel über das separat zu kaufende Laufwerk installiert wird oder durch den Download im Store. Die Installation des separaten Laufwerks ist in weniger als 5 Minuten erledigt und selbstverständlich auch bei diesem Modell möglich. Der Kauf des zugehörigen Laufwerks (kostet in der Regel 70-80 €) ist auch unbedingt zu empfehlen. Die Spiele sind auf dem Zweitmarkt nach einigen Monaten schon stark reduziert zu erwerben. Hat man das Laufwerk nicht, so ist man immer auf die Preise im virtuellen Playstation Store angwiesen. Diese sind annähernd immer bedeutend höher als die Preise auf dem Zweitmarkt.Die Controller haben scheinbar eine bedeutend längere Akkulaufzeit als die der Playstation 4. Der Speicherplatz reicht auch aus, man braucht schließlich nicht tausende Spiele gleichzeitig auf der Playstation. Optisch ist auch zu beachten, dass diese Version der Playstation 5 viel kleiner ist als die erste Version der Playstation 5 - meiner Meinung ist sie damit auch viel schöner.",
+                "rating": 5.0,
+                "author": "Leon Z.",
+                "author_link": "https://www.amazon.de/gp/profile/amzn1.account.AG5GZPEP5RD6R3BXVE7GY2KQD53A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "helpful_votes": "Eine Person fand diese Informationen hilfreich",
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "inkl. 1 DualSense"
+                }
+            },
+            {
+                "position": 4,
+                "title": "Sehr schön",
+                "text": "Ich bin mit meiner PlayStation sehr zufrieden. Die Konsole überzeugt durch eine starke Leistung, schnelle Ladezeiten und eine hervorragende Grafik. Spiele laufen flüssig und sehen beeindruckend realistisch aus. Besonders gut gefällt mir der leise Betrieb und das moderne Design.Der Controller liegt angenehm in der Hand und bietet mit seinem haptischen Feedback ein intensiveres Spielerlebnis. Auch die große Auswahl an exklusiven Spielen macht die PlayStation für mich zur besten Konsole auf dem Markt.Insgesamt ein großartiges Produkt für Gelegenheitsspieler und Hardcore-Gamer gleichermaßen. Klare Kaufempfehlung!",
+                "rating": 5.0,
+                "author": "Bruna do nascimento cameli",
+                "author_link": "https://www.amazon.de/gp/profile/amzn1.account.AGDJ3XNPUI2RSL4PFRDF4HNDVLGQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "inkl. 1 DualSense"
+                }
+            },
+            {
+                "position": 5,
+                "title": "Absolut empfehlenswert !",
+                "text": "Die gesamte Kaufabwicklung der PS5 war absolut empfehlenswert. Guter Preis, superschnelle Lieferung, top Ware !Besonders positiv hervorzuheben war zudem der Service respektive der Umgang mit dem Kunden.Eine meinerseits erfolgte Nachfrage wurde umgehend, freundlich und kompetent beantwortet.Klare Empfehlung an den Verkäufer…an die PS5 sowieso !!F. Schmidt",
+                "rating": 5.0,
+                "author": "Frank Schmidt",
+                "author_link": "https://www.amazon.de/gp/profile/amzn1.account.AEDKLG7EX7HGOUP4XDQ3K3PJFW5A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "inkl. 1 DualSense"
+                }
+            },
+            {
+                "position": 6,
+                "title": "Gute arbeit",
+                "text": "Wie eine ps5",
+                "rating": 4.0,
+                "author": "Ahmed Colic",
+                "author_link": "https://www.amazon.de/gp/profile/amzn1.account.AGDT5NJWP6A3DI55H6NMXZ5DFEVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/d1145e74-1a13-4a84-a984-cf56f25c9925._CR0%2C79%2C842%2C842_SX460_.jpg",
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "+ Fortnite"
+                }
+            }
+        ],
+        "other_countries_reviews": [
+            {
+                "position": 1,
+                "title": "Console puissante, rapide et très immersive",
+                "text": "La PlayStation 5 offre une expérience de jeu vraiment impressionnante. Les temps de chargement sont extrêmement rapides grâce au SSD, ce qui améliore nettement le confort de jeu. Les graphismes sont superbes, avec une grande fluidité, même sur les jeux exigeants.La manette DualSense est un vrai plus : les vibrations haptiques et les gâchettes adaptatives apportent une immersion supplémentaire. La console reste relativement silencieuse en fonctionnement.Le design est moderne (même s’il prend un peu de place), l’interface est fluide et l’accès aux jeux, au multimédia et aux mises à jour est simple.En résumé, une console performante et aboutie, idéale aussi bien pour les joueurs occasionnels que pour les joueurs plus passionnés.",
+                "rating": 5.0,
+                "author": "Mariani",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "inkl. 1 DualSense"
+                },
+                "country": {
+                    "code": "FR",
+                    "name": "France"
+                },
+                "language": {
+                    "code": "fr",
+                    "name": "French (France)"
+                }
+            },
+            {
+                "position": 2,
+                "title": "Excelente todo, llega muy rápido y funciona perfecto!",
+                "text": "Muy contento con la compra, compré desde Argentina y llegó rapidísimo, en menos de 10 días ya estaba en casa, funciona todo perfecto y la caja viene sellada, este nuevo modelo tiene menos espacio de almacenamiento pero por el precio recontra vale la pena, una pc gamer equivalente vale el doble.",
+                "rating": 5.0,
+                "author": "Juan Pablo Leyendecker",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "images": [
+                    "https://m.media-amazon.com/images/I/71eYoWxOgKL._SY88.jpg"
+                ],
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "inkl. 1 DualSense"
+                },
+                "country": {
+                    "code": "ES",
+                    "name": "Spain"
+                },
+                "language": {
+                    "code": "es",
+                    "name": "Spanish (Spain)"
+                }
+            },
+            {
+                "position": 3,
+                "title": "Gayet memnun kaldım iyi bir alışveriş oldu",
+                "text": "Bana tek kollu modeli yolladılar acilen 2.kolumu yollayın diye mesaj attım fakat görseldeki gibi 2 kollu modelmiş ve kutuyu açmadan anlayamadım",
+                "rating": 5.0,
+                "author": "arif safa ilhan",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/1a8c320b-effa-4b6d-b4e4-ad9065558a26._CR0%2C0%2C1125%2C1125_SX460_.jpg",
+                "images": [
+                    "https://m.media-amazon.com/images/I/71drtVPuOAL._SY88.jpg"
+                ],
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "inkl. 2 DualSense"
+                },
+                "country": {
+                    "code": "TR",
+                    "name": "Turkey"
+                },
+                "language": {
+                    "code": "tr",
+                    "name": "Turkish"
+                }
+            },
+            {
+                "position": 4,
+                "title": "All good!",
+                "text": "Bought this ps5 with dual controllers at reduced price. Shipped to Sweden. Arrived in time and was perfect, new and as promised. Was a bit suspicious because of the price (Sek5500) but it checked out!",
+                "rating": 5.0,
+                "author": "Amazon Customer",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "inkl. 2 DualSense"
+                },
+                "country": {
+                    "code": "SE",
+                    "name": "Sweden"
+                },
+                "language": {
+                    "code": "en",
+                    "name": "English"
+                }
+            },
+            {
+                "position": 5,
+                "title": "PS5",
+                "text": "For the first time buying a ps5 from Amazon, but the PS5 works perfectly! It came very clean in a box, the delivery was fast, and the quality is super good. Just how i suspected.",
+                "rating": 5.0,
+                "author": "Lucas",
+                "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "verified_purchase": true,
+                "product": {
+                    "edition": "Digital",
+                    "konfiguration": "inkl. 1 DualSense"
+                },
+                "country": {
+                    "code": "NL",
+                    "name": "Netherlands"
+                },
+                "language": {
+                    "code": "en",
+                    "name": "English"
+                }
+            }
+        ]
+    }
+}
