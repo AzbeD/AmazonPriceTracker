@@ -3,12 +3,15 @@ import os
 import json
 from dotenv import load_dotenv
 from urllib.parse import urlparse, parse_qs
+import datetime
 
 def main():
-    url = "https://www.amazon.de/-/en/Playstation%C2%AE5-Digital-Edition-825-GB/dp/B0FN7ZG39D/ref=sr_1_3?sr=8-3"
+    url = "https://www.amazon.de/-/en/Sennheiser-Momentum-Wireless-Cancelling-Headphones-black/dp/B0B6GHW1SX/ref=sr_1_4?sr=8-4"
     asin = getAsin(url)
     product, price = extractPrice(asin)
-    print(f"{product}: {price}€")
+    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open("CenaIzdelka.txt", "a") as text_file:
+         text_file.write(f"{now} Izdelek: {product}; cena: {price}$\n")
 
 def extractPrice(asin):
     load_dotenv()
