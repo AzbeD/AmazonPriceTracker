@@ -13,6 +13,22 @@ def main():
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open("CenaIzdelka.txt", "a") as text_file:
          text_file.write(f"{now} Izdelek: {product_short}; cena: {price}$\n")
+    print(f"{now}: koncano iskanje cene") 
+    sendNotification(price, product_short)
+
+def sendNotification(price, product):
+    topic = "Amazon_price_tracker"
+    message = f"{product}: {price}€"
+    try:
+        requests.post(f"https://ntfy.sh/{topic}",
+	data=message.encode(encoding='utf-8'),
+	headers={
+	    "Title": "Amazon Price Update",
+	    "Priority": "default",
+	    "Tags": "amazon"
+	})
+    except Exception as e:
+        print(f"Notification failed: {e}")
 
 def extractPrice(asin):
     load_dotenv()
